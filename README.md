@@ -1,3 +1,1 @@
-"# npm" 
-"# npm" 
-"# npm" 
+npm study project
